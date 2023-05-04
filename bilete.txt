@@ -1,0 +1,12 @@
+Data: 01.05.2023 19:05:37; Numar: GL11UNU; Numar ore: 4; Tip de plata: Card
+Data: 01.05.2023 19:05:55; Numar: GL11BOS; Numar ore: 1; Tip de plata: Card
+Data: 01.05.2023 19:14:46; Numar: GL01BOS; Numar ore: 24; Tip de plata: Card
+Data: 01.05.2023 19:15:07; Numar: B999MHL; Numar ore: 3; Tip de plata: SMS
+Data: 01.05.2023 19:15:28; Numar: GL22DOI; Numar ore: 2; Tip de plata: Card
+Data: 01.05.2023 19:18:12; Numar: GL01SEF; Numar ore: 5; Tip de plata: Card
+Data: 01.05.2023 19:18:32; Numar: GL05SMS; Numar ore: 8; Tip de plata: SMS
+Data: 01.05.2023 19:19:09; Numar: GL33REI; Numar ore: 3; Tip de plata: SMS
+Data: 01.05.2023 19:26:09; Numar: GL01KNG; Numar ore: 1; Tip de plata: Card
+Data: 01.05.2023 19:28:22; Numar: CJ05EFU; Numar ore: 9; Tip de plata: Card
+Data: 01.05.2023 19:28:43; Numar: DJ53LLY; Numar ore: 4; Tip de plata: Card
+Data: 01.05.2023 19:35:43; Numar: B777DXP; Numar ore: 7; Tip de plata: Card
