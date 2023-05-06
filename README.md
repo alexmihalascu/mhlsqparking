@@ -1,6 +1,5 @@
 <br/>
-
-![mhlsqlogo](https://user-images.githubusercontent.com/41302353/236610169-5ce60454-2c7a-42f7-ac0c-515d4c915ea5.png | width=100 )
+<img src="https://user-images.githubusercontent.com/41302353/236610169-5ce60454-2c7a-42f7-ac0c-515d4c915ea5.png" width="200" height="200">
 
   <h3 align="center">MHLSQParking</h3>
 
