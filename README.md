@@ -21,13 +21,13 @@
 Java
 
 ## Imagini cu proiectul
+![java1](https://user-images.githubusercontent.com/41302353/236610011-d35ae41c-fa62-4a1f-af09-ba2b28b77e67.png)
+![java2](https://user-images.githubusercontent.com/41302353/236610023-4313309a-8553-43ed-ad0c-d5f042870493.png)
+![java3](https://user-images.githubusercontent.com/41302353/236610046-55730f4d-4e93-446a-aa7e-b6fca229a7bf.png)
+![java4](https://user-images.githubusercontent.com/41302353/236610054-05ec5264-117d-4c98-8566-3a3886706d31.png)
+![java5](https://user-images.githubusercontent.com/41302353/236610069-08ae7360-23bd-4ab7-81ad-62fb95cd7eb7.png)
+![java6](https://user-images.githubusercontent.com/41302353/236610080-976c4d21-e646-4794-a76d-df82285483b0.png)
 
-![Screen Shot](https://alexmihalascu.tech/images/java1.png
-https://alexmihalascu.tech/images/java2.png
-https://alexmihalascu.tech/images/java3.png
-https://alexmihalascu.tech/images/java4.png
-https://alexmihalascu.tech/images/java5.png
-https://alexmihalascu.tech/images/java6.png)
 
 
 ## Primii pași 
