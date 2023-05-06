@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/alexmihalascu/mhlsqparking">
-    <img src="https://alexmihalascu.tech/images/mhlsqlogo.png" alt="Logo" width="80" height="80">
+    <img src="[https://alexmihalascu.tech/images/mhlsqlogo.png](https://alexmihalascu.tech/images/mhlsqlogo.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MHLSQParking</h3>
@@ -34,7 +34,7 @@ Java
 
 1.Clonează acest repositoriu în mediul tău de dezvoltare local:
 
-git clonehttps://github.com/alexmihalascu/mhlsqparking.git
+git clone https://github.com/alexmihalascu/mhlsqparking.git
 
 2.Deschide proiectul într-un IDE compatibil cu Java, precum Eclipse sau IntelliJ IDEA.
 
