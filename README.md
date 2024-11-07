@@ -1,71 +1,59 @@
+
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/41302353/236610169-5ce60454-2c7a-42f7-ac0c-515d4c915ea5.png" width="200" height="200" align>
 </p>
-  <h3 align="center">MHLSQParking</h3>
+<h3 align="center">MHLSQParking</h3>
 
-  <p align="center">
-    O aplicație Java care facilitează administrarea și plata parcării pentru utilizatori.
+<p align="center">
+    A Java application that facilitates parking management and payment for users.
     <br/>
     <br/>
-  </p>
 </p>
 
-![License](https://img.shields.io/github/license/alexmihalascu/mhlsqparking) 
+![License](https://img.shields.io/github/license/alexmihalascu/mhlsqparking)
 
-
-## Construit cu
-
+## 🛠️ Built With
 Java
 
-## Imagini cu proiectul
+## 📸 Project Screenshots
+
 ![java1](https://user-images.githubusercontent.com/41302353/236610011-d35ae41c-fa62-4a1f-af09-ba2b28b77e67.png)
-
 ![java2](https://user-images.githubusercontent.com/41302353/236610023-4313309a-8553-43ed-ad0c-d5f042870493.png)
-
 ![java3](https://user-images.githubusercontent.com/41302353/236610046-55730f4d-4e93-446a-aa7e-b6fca229a7bf.png)
-
 ![java4](https://user-images.githubusercontent.com/41302353/236610054-05ec5264-117d-4c98-8566-3a3886706d31.png)
-
 ![java5](https://user-images.githubusercontent.com/41302353/236610069-08ae7360-23bd-4ab7-81ad-62fb95cd7eb7.png)
-
 ![java6](https://user-images.githubusercontent.com/41302353/236610080-976c4d21-e646-4794-a76d-df82285483b0.png)
 
+## 🚀 Getting Started
 
+1. **Clone the repository** to your local development environment:
+   ```bash
+   git clone https://github.com/alexmihalascu/mhlsqparking.git
+   ```
 
-## Primii pași 
+2. **Open the project** in a Java-compatible IDE, such as Eclipse or IntelliJ IDEA.
 
-1.Clonează acest repositoriu în mediul tău de dezvoltare local:
+3. **Compile and run** the `Aplicatie.java` file.
 
-git clone https://github.com/alexmihalascu/mhlsqparking.git
+## 🎮 Application Usage
 
-2.Deschide proiectul într-un IDE compatibil cu Java, precum Eclipse sau IntelliJ IDEA.
+- **Open the application** and log in with credentials from the `users.csv` file. To add a new user, add a new line in the format `(username, password)` to `users.csv`.
+  
+- Navigate the application's main menu to access features:
+  - Issue Ticket
+  - Manage Parking
+  - Exit
 
-3.Compilează și rulează fișierul Aplicatie.java.
+- In the "Issue Ticket" section, enter the car's license plate number and parking duration. Choose a payment method and complete the required details.
 
+- In the "Manage Parking" section, view and manage parking tickets and cars in the parking area.
 
-## Utilizare aplicatie
+## 🔧 Possible Modifications
 
-Deschide aplicația și autentifică-te cu credențialele tale din fișierul users.csv. Pentru a adăuga un nou utilizator, adaugă o nouă linie în formatul (username, parola) în fișierul users.csv.
+- To change the parking capacity, go to `Aplicatie.java` and modify the line `Parcare parcare = new Parcare(100);` with the desired value.
+- To adjust the parking rate, go to `PlataDialog.java` and modify the line `int totalPlata = durata * 3;` with the desired rate.
 
-Navighează în meniul principal al aplicației pentru a accesa funcționalitățile:
+## ✍️ Authors
 
-Emitere bilet
-Administrare parcare
-Ieșire
-
-În secțiunea "Emitere bilet", introdu numărul de înmatriculare al mașinii și durata parcării. Alege o metodă de plată și completează detaliile necesare.
-În secțiunea "Administrare parcare", vizualizează și gestionează biletele de parcare și mașinile din parcare.
-
-
-## Modificari posibile
-
-Pentru a modifica capacitatea parcării, accesează Aplicatie.java și modifică linia Parcare parcare = new Parcare(100); cu valoarea dorită.
-Pentru a modifica prețul parcării, accesează PlataDialog.java și modifică linia int totalPlata = durata * 3; cu tariful dorit.
-
-
-
-## Autori
-
-* **Alex Mihalașcu** - ** - [Alex Mihalașcu](https://github.com/alexmihalascu/) - **
-
+* **Alex Mihalașcu** - [Alex Mihalașcu](https://github.com/alexmihalascu/)
